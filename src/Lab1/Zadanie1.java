@@ -2,7 +2,7 @@ package Lab1;
 
 import java.util.Scanner;
 
-public class zadanie1 {
+public class Zadanie1 {
     public static void main (String[] args){
         final int liczba = 0b1101_1000;
         String hexStr = Integer.toString(liczba,16);
