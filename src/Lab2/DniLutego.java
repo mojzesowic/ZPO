@@ -10,7 +10,6 @@ public class DniLutego {
         int counter = 0;
         while(localDate.isBefore(LocalDate.now())){
             localDate = localDate.plusDays(1);
-            //System.out.println(localDate);
             if(localDate.toString().contains("-02-29")){
                 counter++;
                 //System.out.println("---------------------------");
