@@ -8,6 +8,6 @@ public class Test {
 
         Publikacja k2 = new KsiazkaZObwoluta("Adam Mickiewicz", "Pan Tadeusz", 340);
         System.out.println(k2);
-        
+
     }
 }
