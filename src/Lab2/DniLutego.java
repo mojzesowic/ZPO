@@ -12,7 +12,6 @@ public class DniLutego {
             localDate = localDate.plusDays(1);
             if(localDate.toString().contains("-02-29")){
                 counter++;
-                //System.out.println("---------------------------");
             }
         }
         System.out.println("Przeżyłem " + counter + " dni 29 lutego.");
