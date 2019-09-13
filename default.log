@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796220</millis>
+  <sequence>1</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich przejechał 320 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796220</millis>
+  <sequence>2</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek przejechał 300 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796220</millis>
+  <sequence>3</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno przejechał 312 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796220</millis>
+  <sequence>4</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas przejechał 307 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796220</millis>
+  <sequence>5</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza przejechał 322 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796220</millis>
+  <sequence>6</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek przejechał 289 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796220</millis>
+  <sequence>7</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak przejechał 276 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796221</millis>
+  <sequence>8</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski przejechał 323 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796221</millis>
+  <sequence>9</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 301 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796221</millis>
+  <sequence>10</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki przejechał 295 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796221</millis>
+  <sequence>11</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński przejechał 304 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796221</millis>
+  <sequence>12</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski przejechał 296 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796221</millis>
+  <sequence>13</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń przejechał 277 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796221</millis>
+  <sequence>14</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj przejechał 316 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:56</date>
+  <millis>1568404796222</millis>
+  <sequence>15</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior przejechał 298 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797222</millis>
+  <sequence>16</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak przejechał 566 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797222</millis>
+  <sequence>17</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński przejechał 612 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797222</millis>
+  <sequence>18</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski przejechał 584 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797222</millis>
+  <sequence>19</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń przejechał 587 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797225</millis>
+  <sequence>20</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki przejechał 591 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797225</millis>
+  <sequence>21</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich przejechał 627 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797225</millis>
+  <sequence>22</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 623 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797225</millis>
+  <sequence>23</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski przejechał 609 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797226</millis>
+  <sequence>24</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza przejechał 602 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797226</millis>
+  <sequence>25</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek przejechał 578 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797227</millis>
+  <sequence>26</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas przejechał 626 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797228</millis>
+  <sequence>27</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno przejechał 622 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797228</millis>
+  <sequence>28</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior przejechał 612 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797228</millis>
+  <sequence>29</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj przejechał 594 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:57</date>
+  <millis>1568404797228</millis>
+  <sequence>30</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek przejechał 622 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798224</millis>
+  <sequence>31</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak przejechał 876 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798225</millis>
+  <sequence>32</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki przejechał 868 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798225</millis>
+  <sequence>33</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń przejechał 907 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798226</millis>
+  <sequence>34</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza przejechał 903 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798226</millis>
+  <sequence>35</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński przejechał 924 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798227</millis>
+  <sequence>36</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski przejechał 899 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798227</millis>
+  <sequence>37</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski przejechał 913 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798227</millis>
+  <sequence>38</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas przejechał 938 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798228</millis>
+  <sequence>39</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 901 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798228</millis>
+  <sequence>40</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich przejechał 950 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798229</millis>
+  <sequence>41</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek przejechał 866 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798229</millis>
+  <sequence>42</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj przejechał 882 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798230</millis>
+  <sequence>43</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno przejechał 904 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798230</millis>
+  <sequence>44</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior przejechał 895 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:58</date>
+  <millis>1568404798230</millis>
+  <sequence>45</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek przejechał 913 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799225</millis>
+  <sequence>46</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki przejechał 1171 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799225</millis>
+  <sequence>47</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak przejechał 1164 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799226</millis>
+  <sequence>48</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza przejechał 1178 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799226</millis>
+  <sequence>49</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń przejechał 1227 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799227</millis>
+  <sequence>50</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski przejechał 1180 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799227</millis>
+  <sequence>51</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski przejechał 1208 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799227</millis>
+  <sequence>52</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński przejechał 1210 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799228</millis>
+  <sequence>53</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas przejechał 1218 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799229</millis>
+  <sequence>54</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek przejechał 1179 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799229</millis>
+  <sequence>55</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj przejechał 1157 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799229</millis>
+  <sequence>56</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 1185 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799230</millis>
+  <sequence>57</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek przejechał 1230 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799230</millis>
+  <sequence>58</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich przejechał 1234 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799230</millis>
+  <sequence>59</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno przejechał 1222 meters</message>
+</record>
+<record>
+  <date>2019-09-13T21:59:59</date>
+  <millis>1568404799230</millis>
+  <sequence>60</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior przejechał 1206 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800226</millis>
+  <sequence>61</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki przejechał 1446 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800227</millis>
+  <sequence>62</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń przejechał 1513 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800227</millis>
+  <sequence>63</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak przejechał 1470 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800227</millis>
+  <sequence>64</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza przejechał 1492 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800228</millis>
+  <sequence>65</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski przejechał 1485 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800229</millis>
+  <sequence>66</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski przejechał 1486 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800229</millis>
+  <sequence>67</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński przejechał 1510 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800229</millis>
+  <sequence>68</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas przejechał 1529 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800230</millis>
+  <sequence>69</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj przejechał 1473 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800230</millis>
+  <sequence>70</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 1502 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800230</millis>
+  <sequence>71</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek przejechał 1488 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800231</millis>
+  <sequence>72</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno przejechał 1517 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800231</millis>
+  <sequence>73</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek przejechał 1515 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800232</millis>
+  <sequence>74</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior przejechał 1493 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:00</date>
+  <millis>1568404800232</millis>
+  <sequence>75</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich przejechał 1558 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801227</millis>
+  <sequence>76</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki przejechał 1739 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801228</millis>
+  <sequence>77</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń przejechał 1811 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801228</millis>
+  <sequence>78</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak przejechał 1790 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801228</millis>
+  <sequence>79</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza przejechał 1777 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801229</millis>
+  <sequence>80</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski przejechał 1802 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801229</millis>
+  <sequence>81</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski przejechał 1786 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801230</millis>
+  <sequence>82</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński przejechał 1829 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801230</millis>
+  <sequence>83</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas przejechał 1852 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801230</millis>
+  <sequence>84</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 1791 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801230</millis>
+  <sequence>85</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj przejechał 1759 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801231</millis>
+  <sequence>86</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek przejechał 1793 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801231</millis>
+  <sequence>87</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno przejechał 1808 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801232</millis>
+  <sequence>88</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek przejechał 1808 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801232</millis>
+  <sequence>89</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich przejechał 1842 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:01</date>
+  <millis>1568404801232</millis>
+  <sequence>90</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior przejechał 1783 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802227</millis>
+  <sequence>91</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki przejechał 2032 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802228</millis>
+  <sequence>92</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń przejechał 2107 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802229</millis>
+  <sequence>93</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak przejechał 2092 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802230</millis>
+  <sequence>94</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski przejechał 2061 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802230</millis>
+  <sequence>95</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski przejechał 2089 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802230</millis>
+  <sequence>96</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza przejechał 2062 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802231</millis>
+  <sequence>97</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas przejechał 2158 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802231</millis>
+  <sequence>98</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński przejechał 2134 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802231</millis>
+  <sequence>99</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 2104 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802232</millis>
+  <sequence>100</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno przejechał 2122 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802232</millis>
+  <sequence>101</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj przejechał 2055 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802232</millis>
+  <sequence>102</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek przejechał 2086 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802233</millis>
+  <sequence>103</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior przejechał 2076 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802233</millis>
+  <sequence>104</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek przejechał 2120 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:02</date>
+  <millis>1568404802233</millis>
+  <sequence>105</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich przejechał 2162 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803228</millis>
+  <sequence>106</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki przejechał 2330 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803229</millis>
+  <sequence>107</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń przejechał 2425 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803230</millis>
+  <sequence>108</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak przejechał 2399 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803231</millis>
+  <sequence>109</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski przejechał 2380 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803231</millis>
+  <sequence>110</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza przejechał 2357 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803232</millis>
+  <sequence>111</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński przejechał 2415 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803232</millis>
+  <sequence>112</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas przejechał 2441 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803232</millis>
+  <sequence>113</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 2396 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803232</millis>
+  <sequence>114</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski przejechał 2400 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803233</millis>
+  <sequence>115</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek przejechał 2365 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803233</millis>
+  <sequence>116</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno przejechał 2424 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803234</millis>
+  <sequence>117</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj przejechał 2339 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803234</millis>
+  <sequence>118</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek przejechał 2402 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803234</millis>
+  <sequence>119</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich przejechał 2460 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:03</date>
+  <millis>1568404803234</millis>
+  <sequence>120</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior przejechał 2380 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804229</millis>
+  <sequence>121</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki przejechał 2642 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804230</millis>
+  <sequence>122</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń przejechał 2732 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804231</millis>
+  <sequence>123</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak przejechał 2696 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804232</millis>
+  <sequence>124</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski przejechał 2694 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804232</millis>
+  <sequence>125</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza przejechał 2665 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804233</millis>
+  <sequence>126</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński przejechał 2694 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804233</millis>
+  <sequence>127</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 2683 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804234</millis>
+  <sequence>128</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek przejechał 2674 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804234</millis>
+  <sequence>129</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno przejechał 2700 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804234</millis>
+  <sequence>130</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas przejechał 2748 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804234</millis>
+  <sequence>131</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski przejechał 2717 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804235</millis>
+  <sequence>132</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj przejechał 2653 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804236</millis>
+  <sequence>133</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior przejechał 2676 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804236</millis>
+  <sequence>134</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich przejechał 2779 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:04</date>
+  <millis>1568404804236</millis>
+  <sequence>135</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek przejechał 2689 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805229</millis>
+  <sequence>136</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki przejechał 2960 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805230</millis>
+  <sequence>137</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń przejechał 3020 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805231</millis>
+  <sequence>138</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak przejechał 2989 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805232</millis>
+  <sequence>139</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski przejechał 2992 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805232</millis>
+  <sequence>140</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza przejechał 2966 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805233</millis>
+  <sequence>141</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 2958 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805233</millis>
+  <sequence>142</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński przejechał 2977 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805234</millis>
+  <sequence>143</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno przejechał 2999 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805234</millis>
+  <sequence>144</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek przejechał 2998 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805234</millis>
+  <sequence>145</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski przejechał 3011 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805235</millis>
+  <sequence>146</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj przejechał 2973 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805235</millis>
+  <sequence>147</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas przejechał 3030 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805236</millis>
+  <sequence>148</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich przejechał 3055 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805236</millis>
+  <sequence>149</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek przejechał 3011 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:05</date>
+  <millis>1568404805236</millis>
+  <sequence>150</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior przejechał 2988 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806230</millis>
+  <sequence>151</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Cielecki dojechał na miejscu 1 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806231</millis>
+  <sequence>152</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Korszeń dojechał na miejscu 2 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806232</millis>
+  <sequence>153</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Ludwiczak dojechał na miejscu 3 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806233</millis>
+  <sequence>154</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Ramza dojechał na miejscu 4 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806233</millis>
+  <sequence>155</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Tadajewski dojechał na miejscu 4 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806234</millis>
+  <sequence>156</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Chabiński dojechał na miejscu 6 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806234</millis>
+  <sequence>157</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda przejechał 3235 meters</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806235</millis>
+  <sequence>158</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Antoszek dojechał na miejscu 7 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806235</millis>
+  <sequence>159</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Werpachowski dojechał na miejscu 7 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806235</millis>
+  <sequence>160</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Juchno dojechał na miejscu 7 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806236</millis>
+  <sequence>161</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Miklas dojechał na miejscu 10 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806236</millis>
+  <sequence>162</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Suwaj dojechał na miejscu 10 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806243</millis>
+  <sequence>163</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Sulich dojechał na miejscu 12 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806244</millis>
+  <sequence>164</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Goliszek dojechał na miejscu 13 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:06</date>
+  <millis>1568404806244</millis>
+  <sequence>165</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tasior dojechał na miejscu 13 w czasie 275sekund</message>
+</record>
+<record>
+  <date>2019-09-13T22:00:07</date>
+  <millis>1568404807235</millis>
+  <sequence>166</sequence>
+  <logger>Lab3.CyclingRace</logger>
+  <level>INFO</level>
+  <class>Lab3.CyclingRace$Cyclist</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Mikoda dojechał na miejscu 15 w czasie 300sekund</message>
+</record>
+</log>
